@@ -160,7 +160,7 @@ urlpatterns = [
 
 ### Products Page
 
-![Inventory Dashboard](ims_django/images/im4.png)
+![Inventory Dashboard](ims_django/images/im1.png)
 
 
 ### Inventory Dashboard
