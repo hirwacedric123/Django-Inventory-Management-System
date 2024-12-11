@@ -156,11 +156,11 @@ urlpatterns = [
 
 ### Inventory Dashboard
 
-![Inventory Dashboard](ims_django/images/im1.png)
+![Inventory Dashboard](ims_django/images/im4.png)
 
-### Add Product Page
+### Products Page
 
-![Add Product](path/to/screenshot2.png)
+![Inventory Dashboard](ims_django/images/im4.png)
 
 
 ### Inventory Dashboard
