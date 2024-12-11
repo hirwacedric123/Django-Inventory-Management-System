@@ -162,6 +162,12 @@ urlpatterns = [
 
 ![Add Product](path/to/screenshot2.png)
 
+
+### Inventory Dashboard
+
+![Inventory Dashboard](ims_django/images/im2.png)
+
+
 ---
 
 ## License
