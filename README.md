@@ -1,4 +1,4 @@
-Here's a detailed `README.md` for your Django Inventory Management System, incorporating JavaScript, CSS, HTML, Django, Pillow, and Bootstrap.
+
 
 ---
 
