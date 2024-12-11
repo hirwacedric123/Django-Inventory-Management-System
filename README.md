@@ -102,7 +102,7 @@ Make sure to configure the following settings in your `settings.py`:
 
 INSTALLED_APPS = [
     ...,
-    'inventory',  # Your app name
+    'imsApp',  # Your app name
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
