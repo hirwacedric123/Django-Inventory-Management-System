@@ -156,7 +156,7 @@ urlpatterns = [
 
 ### Inventory Dashboard
 
-![Inventory Dashboard](path/to/screenshot1.png)
+![Inventory Dashboard](ims_django/images/im1.png)
 
 ### Add Product Page
 
