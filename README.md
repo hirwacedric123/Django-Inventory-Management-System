@@ -50,8 +50,8 @@ A web-based inventory management system built with Django, leveraging Bootstrap 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/django-inventory-system.git
-   cd django-inventory-system
+   git clone https://github.com/hirwacedric123/Django-Inventory-Management-System.git
+   cd Django-Inventory-Management-System
    ```
 
 2. **Create a virtual environment**:
