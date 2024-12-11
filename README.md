@@ -156,14 +156,14 @@ urlpatterns = [
 
 ### Inventory Dashboard
 
+![Inventory Dashboard](ims_django/images/im4.png)
+
+### Products Page
+
 ![Inventory Dashboard](ims_django/images/im1.png)
 
-### Add Product Page
 
-![Add Product](path/to/screenshot2.png)
-
-
-### Inventory Dashboard
+### Inventory Page
 
 ![Inventory Dashboard](ims_django/images/im2.png)
 
@@ -181,5 +181,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 --- 
-
-This `README.md` file provides clear instructions for setting up and using the Django Inventory Management System. Let me know if you need any adjustments!
