@@ -163,7 +163,7 @@ urlpatterns = [
 ![Inventory Dashboard](ims_django/images/im1.png)
 
 
-### Inventory Dashboard
+### Inventory Page
 
 ![Inventory Dashboard](ims_django/images/im2.png)
 
