@@ -167,7 +167,9 @@ urlpatterns = [
 
 ![Inventory Dashboard](ims_django/images/im2.png)
 
+### Invoices page
 
+![Inventory Dashboard](ims_django/images/im5.png)
 ---
 
 ## License
